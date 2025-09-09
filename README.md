@@ -1,4 +1,4 @@
-https://github.com/username/ono-tebe-nado-fd
+https://github.com/DariAndreeva/ono-tebe-nado-fd
 
 Проектная работа №1.Яндекс-практикум.
 
