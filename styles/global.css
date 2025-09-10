@@ -3,9 +3,7 @@
 *::after {
   box-sizing: border-box;
 }
-body::-webkit-scrollbar {
-  display: none; /* Для Chrome, Safari, Edge */
-}
+
 body {
   width: 1100px;
   margin: 0 auto;
